@@ -161,3 +161,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Assignment-3/Data.zip
+Assignment-3/Data/Borglum/borglum_all.nc
+Assignment-3/Data/Risoe/test.py
+Assignment-3/Data/Risoe/meso_Risoe.csv
+Assignment-3/Data/Risoe/risoe_m_all.nc
+Assignment-3/Data/Borglum/meso_Borglum.csv
+Assignment-3/Vestas - Previous student solutions Preprocessing only/a. Assignment Vestas.ipynb
+Assignment-3/Vestas - Previous student solutions Preprocessing only/b. Assignment Vestas.ipynb
+Assignment-3/Vestas - Previous student solutions Preprocessing only/c. Assignment Vestas.ipynb
+Assignment-3/Vestas - Previous student solutions Preprocessing only/e. Assignment Vestas.ipynb
+Assignment-3/Vestas - Previous student solutions Preprocessing only/d. Assignment Vestas/Assignment_Solution_Borglum.ipynb
+Assignment-3/Vestas - Previous student solutions Preprocessing only/d. Assignment Vestas/Assignment_Solution_Risoe.ipynb
