@@ -1,0 +1,38 @@
+Column Name,Description,Data Type,Example Value
+Neighborhood name,"Name of the neighborhood in Vitória, Brazil.",Text,"""Jardim Camburi"""
+Total population,Total number of residents in the neighborhood.,Integer,"25,000"
+Men,Total male population.,Integer,"12,000"
+Women,Total female population.,Integer,"13,000"
+Population aged 0 to 4,Number of residents aged between 0 and 4 years.,Integer,"2,000"
+Population aged 5 to 14,Number of residents aged between 5 and 14 years.,Integer,"4,000"
+Population aged 15 to 64,Number of residents aged between 15 and 64 years.,Integer,"16,000"
+Population over 65,Number of residents aged 65 and older.,Integer,"3,000"
+Rate of dependency youth,"Ratio of youth (aged 0–14) to the working-age population (15–64), expressed as a percentage.",Float (%),37.5
+Rate of dependency elderly,"Ratio of elderly (65+) to the working-age population (15–64), expressed as a percentage.",Float (%),18.8
+Rate of dependency total,"Total dependency ratio, combining youth and elderly dependency, expressed as a percentage.",Float (%),56.3
+Aging index,Number of elderly (65+) per 100 youth (0–14).,Float,50
+Sex ratio,Ratio of men to women.,Float,0.92
+"Children per 1,000 women","Number of children (0–4 years) per 1,000 women of reproductive age (15–49 years).",Integer,20
+Mortality rate,"Annual number of deaths per 1,000 residents.",Float,5
+Total occupied permanent private households,Total number of permanent households occupied by residents.,Integer,"8,000"
+Own property %,Percentage of households owned by occupants.,Float (%),60
+Rented property %,Percentage of households that are rented.,Float (%),30
+Assigned property %,"Percentage of households occupied by other forms of assignment (e.g., government or family arrangement).",Float (%),5
+Other forms of occupation %,"Percentage of households under other forms of occupation (e.g., squatting).",Float (%),5
+Electrical connection present %,Percentage of households with an electrical connection.,Float (%),98
+Garbage collected %,Percentage of households whose garbage is regularly collected by public services.,Float (%),85
+Garbage burnt %,Percentage of households disposing of garbage by burning.,Float (%),6
+Garbage buried %,Percentage of households burying their garbage.,Float (%),4
+Garbage thrown on vacant land or public place %,Percentage of households throwing garbage on vacant land or public areas.,Float (%),3
+"Garbage thrown in river, lake, or sea %",Percentage of households disposing of garbage in water bodies.,Float (%),1
+Garbage brought to other destination %,Percentage of households transporting garbage to alternative destinations.,Float (%),1
+Water by general connection %,Percentage of households connected to a public water supply system.,Float (%),93
+Water by well %,Percentage of households using well water.,Float (%),5
+Water by other means %,"Percentage of households using other water sources (e.g., rainwater, rivers).",Float (%),2
+Population aged 10 and over,Number of residents aged 10 years or older.,Integer,"20,000"
+Literate people over the age of 10,Number of literate individuals aged 10 and older.,Integer,"18,000"
+Literacy rate,Percentage of literate individuals among the population aged 10 and over.,Float (%),90
+Average income of people aged 10 and over with income,Average income of individuals aged 10+ who report having an income.,Float (BRL),"2,500.00"
+Earning up to minimum wage %,Percentage of individuals earning up to the minimum wage.,Float (%),40
+Earning more than minimum wage %,Percentage of individuals earning more than the minimum wage.,Float (%),30
+No income %,Percentage of individuals aged 10+ with no income.,Float (%),30
